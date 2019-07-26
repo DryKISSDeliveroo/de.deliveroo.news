@@ -7,6 +7,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://de.deliveroo.news/news/hitzewelle-in-deutschland.html</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://de.deliveroo.news/news/deliveroo-curious-dishes.html</loc>
     <lastmod>2019-07-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -115,7 +121,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://de.deliveroo.news/tag/eurovision.html</loc>
+    <loc>https://de.deliveroo.news/tag/deliveroo.html</loc>
     <lastmod>2019-07-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -127,7 +133,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://de.deliveroo.news/tag/deliveroo.html</loc>
+    <loc>https://de.deliveroo.news/tag/summer.html</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://de.deliveroo.news/tag/eurovision.html</loc>
     <lastmod>2019-07-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
